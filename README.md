@@ -1,3 +1,9 @@
+<p align="right">
+<a href="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=frte-nsk.ReactTypescriptTestTask&color=F76C33&style=flat&logo=Github&text=views">
+  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=frte-nsk.ReactTypescriptTestTask&color=F76C33&style=flat&logo=Github&text=views"/>
+</a>
+</p>
+
 # Тестовое задание на позицию Middle React/Typescript developer
 
 ### Условия:
@@ -22,7 +28,7 @@
     4. Номер телефона
     5. Название компании
     6.  Колонка с иконкой карточки пользователя
-2. В колонках таблицы должны быть фильтрация
+2. В колонках таблицы должна быть фильтрация
     1. имя - query parameter = name
     2. имя пользователя - query parameter = username
     3. телефон - query parameter = phone
